@@ -1,4 +1,6 @@
 Program: Palindrome Linked List
+Submission Detail: 26 / 26 test cases passed.
+Program source: Leetcode
 
 Given a singly linked list, determine if it is a palindrome.
 
